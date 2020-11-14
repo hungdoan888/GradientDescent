@@ -3,7 +3,7 @@
 - <a href="Method_of_Steepest_Descent.pdf" target="_blank">Method_of_Steepest_Descent.pdf</a>
 
 # Motivation
-- School Project
+- School Project - Nonlinear Optimization
 
 # Screenshots
 ![Alt text](fig3.png?raw=true "Figure 3")
